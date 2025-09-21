@@ -35,8 +35,8 @@ Always exploring new technologies and open to collaboration.
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- 📧 Email: shenoydisha2004@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/disha-shenoy-414513322/  
 
 ---
 
