@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Disha Shenoy
 
-🎓 Currently: MCA (1st year). Interests: Computer Vision, Web, Full-stack Python. Looking for internship work.  
+🎓 **Currently: MCA (1st year). Interests: Computer Vision, Web, Full-stack Python. Looking for internship work.**  
 💻 **Aspiring Software Developer & Python Enthusiast**  
 🌍 Based in India
 
